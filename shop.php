@@ -29,8 +29,8 @@
     <link rel="stylesheet" href="css/custom.css">
 
     <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js1"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js1/1.4.2/respond.min.js1"></script>
     <![endif]-->
 
 </head>
@@ -49,13 +49,13 @@
 						</select>
                     </div>
                     <div class="right-phone-box">
-                        <p>Call US :- <a href="#"> +11 900 800 100</a></p>
+                        <p>Escribenos: <a href="#">info@tramitesdigitales.com<?php echo "Hola mundo"?></a></p>
                     </div>
                     <div class="our-link">
                         <ul>
-                            <li><a href="#"><i class="fa fa-user s_color"></i> My Account</a></li>
-                            <li><a href="#"><i class="fas fa-location-arrow"></i> Our location</a></li>
-                            <li><a href="#"><i class="fas fa-headset"></i> Contact Us</a></li>
+                            <li><a href="#"><i class="fa fa-user s_color"></i> Mi Cuenta</a></li>
+                            <li><a href="#"><i class="fas fa-location-arrow"></i> Lista de Precios</a></li>
+                            <li><a href="#"><i class="fas fa-headset"></i> Contacto: +52 993 178 4422</a></li>
                         </ul>
                     </div>
                 </div>
@@ -67,34 +67,7 @@
 						</select>
 					</div>
                     <div class="text-slid-box">
-                        <div id="offer-box" class="carouselTicker">
-                            <ul class="offer-box">
-                                <li>
-                                    <i class="fab fa-opencart"></i> 20% off Entire Purchase Promo code: offT80
-                                </li>
-                                <li>
-                                    <i class="fab fa-opencart"></i> 50% - 80% off on Vegetables
-                                </li>
-                                <li>
-                                    <i class="fab fa-opencart"></i> Off 10%! Shop Vegetables
-                                </li>
-                                <li>
-                                    <i class="fab fa-opencart"></i> Off 50%! Shop Now
-                                </li>
-                                <li>
-                                    <i class="fab fa-opencart"></i> Off 10%! Shop Vegetables
-                                </li>
-                                <li>
-                                    <i class="fab fa-opencart"></i> 50% - 80% off on Vegetables
-                                </li>
-                                <li>
-                                    <i class="fab fa-opencart"></i> 20% off Entire Purchase Promo code: offT30
-                                </li>
-                                <li>
-                                    <i class="fab fa-opencart"></i> Off 50%! Shop Now 
-                                </li>
-                            </ul>
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -119,7 +92,7 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="navbar-menu">
                     <ul class="nav navbar-nav ml-auto" data-in="fadeInDown" data-out="fadeOutUp">
-                        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="index.html">Inicio</a></li>
                         <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
                         <li class="dropdown active">
                             <a href="#" class="nav-link dropdown-toggle arrow" data-toggle="dropdown">Comprar en línea</a>
@@ -595,39 +568,58 @@
                         </div>
                         <div class="filter-sidebar-left">
                             <div class="title-left">
-                                <h3>Categories</h3>
+                                <h3>ESTADOS</h3>
                             </div>
                             <div class="list-group list-group-collapse list-group-sm list-group-tree" id="list-group-men" data-children=".sub-men">
                                 <div class="list-group-collapse sub-men">
-                                    <a class="list-group-item list-group-item-action" href="#sub-men1" data-toggle="collapse" aria-expanded="true" aria-controls="sub-men1">Fruits & Drinks <small class="text-muted">(100)</small>
+                                    <a class="list-group-item list-group-item-action" href="#sub-men1" data-toggle="collapse" aria-expanded="true" aria-controls="sub-men1">Aguascalientes<small class="text-muted">(100)</small>
 								</a>
-                                    <div class="collapse show" id="sub-men1" data-parent="#list-group-men">
+<!--                                     <div class="collapse show" id="sub-men1" data-parent="#list-group-men">
                                         <div class="list-group">
-                                            <a href="#" class="list-group-item list-group-item-action active">Fruits 1 <small class="text-muted">(50)</small></a>
-                                            <a href="#" class="list-group-item list-group-item-action">Fruits 2 <small class="text-muted">(10)</small></a>
-                                            <a href="#" class="list-group-item list-group-item-action">Fruits 3 <small class="text-muted">(10)</small></a>
-                                            <a href="#" class="list-group-item list-group-item-action">Fruits 4 <small class="text-muted">(10)</small></a>
+                                            <a href="#" class="list-group-item list-group-item-action active">Fruits 1 <small class="text-muted"></small></a>
+                                            <a href="#" class="list-group-item list-group-item-action">Fruits 2 <small class="text-muted"></small></a>
+                                            <a href="#" class="list-group-item list-group-item-action">Fruits 3 <small class="text-muted"></small></a>
+                                            <a href="#" class="list-group-item list-group-item-action">Fruits 4 <small class="text-muted"></small></a>
                                             <a href="#" class="list-group-item list-group-item-action">Fruits 5 <small class="text-muted">(20)</small></a>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="list-group-collapse sub-men">
-                                    <a class="list-group-item list-group-item-action" href="#sub-men2" data-toggle="collapse" aria-expanded="false" aria-controls="sub-men2">Vegetables 
-								<small class="text-muted">(50)</small>
+                                    <a class="list-group-item list-group-item-action" href="#sub-men2" data-toggle="collapse" aria-expanded="false" aria-controls="sub-men2">Baja California 
+								<small class="text-muted"></small>
 								</a>
-                                    <div class="collapse" id="sub-men2" data-parent="#list-group-men">
-                                        <div class="list-group">
-                                            <a href="#" class="list-group-item list-group-item-action">Vegetables 1 <small class="text-muted">(10)</small></a>
-                                            <a href="#" class="list-group-item list-group-item-action">Vegetables 2 <small class="text-muted">(20)</small></a>
-                                            <a href="#" class="list-group-item list-group-item-action">Vegetables 3 <small class="text-muted">(20)</small></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <a href="#" class="list-group-item list-group-item-action"> Grocery  <small class="text-muted">(150) </small></a>
-                                <a href="#" class="list-group-item list-group-item-action"> Grocery <small class="text-muted">(11)</small></a>
-                                <a href="#" class="list-group-item list-group-item-action"> Grocery <small class="text-muted">(22)</small></a>
                             </div>
-                        </div>
+                            <a href="#" class="list-group-item list-group-item-action">Baja California<small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Baja California Sur  <small class="text-muted"> </small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Chiapas <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Chihuahua <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Ciudad de México Sur  <small class="text-muted"> </small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Coahuila <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Colima <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Durango<small class="text-muted"> </small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Guanajuato <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Guerrero <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Hidalgo  <small class="text-muted"> </small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Jalisco <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> México <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Michoacán<small class="text-muted"> </small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Morelos <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Nayarit <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Nuevo León<small class="text-muted"> </small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Oaxaca<small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Puebla <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Querétaro<small class="text-muted"> </small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Quintana Roo <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> San Luis Potosí <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Sinaloa  <small class="text-muted"> </small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Sonora <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Tabasco <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Tamaulipas <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Tlaxcala <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Veracruz  <small class="text-muted"> </small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Yucatán <small class="text-muted"></small></a>
+                                <a href="#" class="list-group-item list-group-item-action"> Zacatecas <small class="text-muted"></small></a>
+                            </div>
                         <div class="filter-price-left">
                             <div class="title-left">
                                 <h3>Price</h3>
@@ -829,24 +821,24 @@
 
     <a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
 
-    <!-- ALL JS FILES -->
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <!-- ALL js1 FILES -->
+    <script src="js1/jquery-3.2.1.min.js1"></script>
+    <script src="js1/popper.min.js1"></script>
+    <script src="js1/bootstrap.min.js1"></script>
     <!-- ALL PLUGINS -->
-    <script src="js/jquery.superslides.min.js"></script>
-    <script src="js/bootstrap-select.js"></script>
-    <script src="js/inewsticker.js"></script>
-    <script src="js/bootsnav.js."></script>
-    <script src="js/images-loded.min.js"></script>
-    <script src="js/isotope.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/baguetteBox.min.js"></script>
-    <script src="js/jquery-ui.js"></script>
-    <script src="js/jquery.nicescroll.min.js"></script>
-    <script src="js/form-validator.min.js"></script>
-    <script src="js/contact-form-script.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="js1/jquery.superslides.min.js1"></script>
+    <script src="js1/bootstrap-select.js1"></script>
+    <script src="js1/inewsticker.js1"></script>
+    <script src="js1/bootsnav.js1."></script>
+    <script src="js1/images-loded.min.js1"></script>
+    <script src="js1/isotope.min.js1"></script>
+    <script src="js1/owl.carousel.min.js1"></script>
+    <script src="js1/baguetteBox.min.js1"></script>
+    <script src="js1/jquery-ui.js1"></script>
+    <script src="js1/jquery.nicescroll.min.js1"></script>
+    <script src="js1/form-validator.min.js1"></script>
+    <script src="js1/contact-form-script.js1"></script>
+    <script src="js1/custom.js1"></script>
 </body>
 
 </html>
